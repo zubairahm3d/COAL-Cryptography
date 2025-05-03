@@ -61,4 +61,4 @@ This project, developed as the final project for a Computer Organization and Ass
 Developed as the final project for a COAL course to explore Assembly programming and cryptography. It leverages the Irvine32 library and course concepts.
 
 ## License
-Licensed under the MIT License. See the [LICENSE](LICENSE) file for details. Note: The Irvine32 library has separate licensing terms (typically educational use); ensure compliance when redistributing.
+Licensed under the MIT License.
