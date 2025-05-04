@@ -1,7 +1,7 @@
 # COAL Cryptography Project
 
 ## Overview
-**Final Project – Computer Organization and Assembly Language (COAL), Summer 2023, FAST NUCES**
+**Final Project – Computer Organization and Assembly Language (COAL), Summer 2023, FAST NUCES.**
 Implemented four cryptographic algorithms in Assembly using the Irvine32 library: Vigenère Cipher, Diffie-Hellman Key Exchange, ROT13, and Rail Fence Cipher. The project showcases low-level programming skills and fundamental cryptographic concepts.
 
 ## Features
